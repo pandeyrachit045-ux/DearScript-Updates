@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
+  "versionCode": 12,
+  "versionName": "0.12",
   "url": "https://github.com/pandeyrachit045-ux/DearScript-Updates/raw/refs/heads/main/DearScript.apk",
-  "notes": "New update dialog, rounded UI, new syntaxes and bug fixes"
+  "notes": "new syntaxes and bug fixes, Gui features"
 }
